@@ -1,5 +1,5 @@
 # wordle_tefy_luciano
-#  Wordle Solver
+
 
 ##  Description
 
@@ -46,8 +46,19 @@ git clone https://github.com/tefy0/wordle_tefy_luciano.git
 ```
 
 ---
+##  Fonctionnalités
+
+Le programme permet :
+
+* Charger les mots depuis un fichier (bdd_wordle.txt)
+* Filtrer les mots contenant une lettre
+* Filtrer les mots ne contenant pas une lettre
+* Rechercher des mots contenant une sous-chaîne
+
+---
 
 ##  Auteurs
 
  Tefy(propriétaire du dépôt)
+---
  Luciano(Collaborateur)
