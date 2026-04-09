@@ -60,5 +60,4 @@ Le programme permet :
 ##  Auteurs
 
  Tefy(propriétaire du dépôt)
----
  Luciano(Collaborateur)
